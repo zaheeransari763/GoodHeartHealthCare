@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="medications_shape_array">
+        <item>Syrup</item>
+        <item>Tablet</item>
+        <item>Capsules</item>
+        <item>Insulin</item>
+    </array>
+</resources>

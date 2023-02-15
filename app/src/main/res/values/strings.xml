@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Good Heart Health Care</string>
+    <string name="forgot_one">Enter your registered email address we will get back to you with the reset password link</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="mission">Good Heart Health Care is one of the ultra modern healthcare segment in the Bhiwandi town, District Thane , Maharashtra , India. The firm is dedicated for patient oriented, hospitality management and of its unique brand of association with people of different strata of society. The firm has established in 2020 with broader prospect of services to humankind,. Currently operate with  one of the most advance Dental and Cosmetic Care center ”Dr. Abrar Momin –Dental Maxillofacial and Cosmetic Center situated at 1st Floor, Hafsaan Ali, Opp. Neelkanth Mandir, Teen Batti, Bhiwandi .</string>
+    <string name="vision">In India, the healthcare industry is undergoing a revolutionary change mainly due to the rising income levels, increasing awareness on lifestyle diseases, changing attitude from prescriptive to preventive healthcare, growing insurance market and increasing government spending on healthcare.The dynamic team of founders identified the retail healthcare need in smaller townships of India  and stablished Good Heart Health care firm to serve the people with motto “Any expense on health is an investment”.​The team is finding new partnership and association and certainly will have new horizon by end of the year 2021.</string>
+    <string name="oath">Patients are our first priority and we will urge to provide our best medical services at reasonable cost and at the right time.</string>
+
+    <string name="analyzeBmi"><u>Analyze BMI</u></string>
+    <string name="staffStatus">Hello there, I am the best and qualified Doctor. I am here to serve you the best service of my Domain. We oath to cure your parasites with our wisdom</string>
+
+    <string name="title_medicine_name">Medicine Name</string>
+    <string name="hint_enter_med_name">Enter Medicine</string>
+    <string name="medicine_days">Medicine Days</string>
+    <string name="title_treatment_deadline">Treatment deadline</string>
+    <string name="title_continuous_use">Continuous use</string>
+    <string name="title_reminder">Reminder</string>
+    <string name="new_medicine">NEW MEDICINE</string>
+    <string name="every_day">Every day</string>
+    <string name="no_medicine_added">No Medicine Added</string>
+    <string name="loading_tasks_error">Error while loading medicineAlarms</string>
+    <string name="successfully_saved_me_message">Medicine Added Successfully</string>
+    <string name="successfully_deleted_message">Medicine deleted Successfully</string>
+    <string name="reminder_message">It\'s Time to take your medicine</string>
+    <string name="ignored">IGNORED</string>
+    <string name="taken">TAKEN</string>
+    <string name="all">ALL</string>
+    <string name="menu_filter">Filter</string>
+    <string name="all_label">All Medicines</string>
+    <string name="ignore_label">Medicines Ignored</string>
+    <string name="taken_label">Medicine Taken</string>
+    <string name="no_history">No History Found</string>
+    <string name="no_taken_med_history">You have not taken any medicine</string>
+    <string name="no_ignored_history">Well Done</string>
+    <string name="menu_stats">Monthly Report</string>
+
+    <string-array name="marital_array">
+        <item>Married</item>
+        <item>Unmarried</item>
+        <item>Divorced</item>
+        <item>Widowed</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_test"><u>Click to get list of tests\nand their prices.</u></string>
+    <string name="bmi_intro">BMI(Body mass index) is a value derived from the mass (weight) and height of a person. It is a convenient rule of thumb used to broadly categorize a person as underweight, normal weight, overweight, or obese based on tissue mass (muscle, fat, and bone) and height.</string>
+    <string name="bmr_intro">BMR(Basal metabolic rate) is the rate of energy expenditure per unit time by endothermic animals at rest. It is measured under very restrictive circumstances when a person is awake. An accurate BMR measurement requires that the person\'s sympathetic nervous system not be stimulated.</string>
+
+    <string-array name="specialist">
+        <item>Pediatrician</item>
+        <item>Gynecologist</item>
+        <item>Cardiologist</item>
+        <item>Oncologist</item>
+        <item>Gastroenterologist</item>
+        <item>Pulmonologist</item>
+        <item>Nephrologist</item>
+        <item>Endocrinologist</item>
+        <item>Ophthalmologist</item>
+        <item>Otolaryngologist</item>
+        <item>Dermatologist</item>
+        <item>Psychiatrist</item>
+        <item>Neurologist</item>
+        <item>Radiologist</item>
+        <item>Anesthesiologist</item>
+        <item>Surgeon</item>
+    </string-array>
+
+    <string-array name="labTests">
+        <item>CBC</item>
+        <item>BMP</item>
+        <item>CMP</item>
+        <item>Blood Enzyme Test</item>
+        <item>Lipid Panel</item>
+        <item>HbA1C</item>
+        <item>TSH</item>
+    </string-array>
+
+</resources>

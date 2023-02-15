@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/black"
+        android:layout_margin="40dp">
+
+        <TableRow
+            android:background="@color/mainColor">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/white"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal"
+                android:text="Blood Test"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textColor="@color/white"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:textStyle="bold"
+                android:gravity="center_horizontal"
+                android:text="Prices"/>
+        </TableRow>
+
+        <TableRow
+            android:background="@color/mainColorLight">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="CBC"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="$6 to $28"/>
+        </TableRow>
+
+        <TableRow
+            android:background="@color/mainColorLight">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="BMP"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="$8 to $38"/>
+        </TableRow>
+
+        <TableRow
+            android:background="@color/mainColorLight">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="CMP"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="$9 to $45"/>
+        </TableRow>
+
+        <TableRow
+            android:background="@color/mainColorLight">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="Blood enzyme test"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_horizontal"
+                android:text="$11 to $58"/>
+        </TableRow>
+
+        <TableRow
+            android:background="@color/mainColorLight">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="Lipid Panel"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="$12 to $58"/>
+        </TableRow>
+
+        <TableRow
+            android:background="@color/mainColorLight">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="HbA1C"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="$10 to $51"/>
+        </TableRow>
+
+        <TableRow
+            android:background="@color/mainColorLight">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="TSH"/>
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="2"
+                android:textColor="@color/purple_700"
+                android:textSize="17sp"
+                android:padding="8sp"
+                android:gravity="center_horizontal"
+                android:text="$15 to $73"/>
+        </TableRow>
+    </TableLayout>
+</LinearLayout>

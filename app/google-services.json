@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "551350756076",
+    "firebase_url": "https://good-heart-health-care-default-rtdb.firebaseio.com",
+    "project_id": "good-heart-health-care",
+    "storage_bucket": "good-heart-health-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551350756076:android:daef03635e3bf09a433bc9",
+        "android_client_info": {
+          "package_name": "com.example.goodhearthealthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551350756076-u6jji2u8a4ddfkuo9k8jkgqvu8lia1cq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCEj1fQaijOBrrLCNb76AjdsNoXSQxDnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551350756076-u6jji2u8a4ddfkuo9k8jkgqvu8lia1cq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

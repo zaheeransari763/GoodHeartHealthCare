@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/medicineName"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text="Medicine Name"
+            android:textSize="18sp"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:fontFamily="@font/nunito_sans"/>
+        <TextView
+            android:id="@+id/medicineTime"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Time"
+            android:textSize="18sp"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:fontFamily="@font/nunito_sans"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.theartofdev.edmodo:android-image-cropper:2.4.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/9308c21e0b98b82e52ad79f966f16e1d/transformed/jetified-android-image-cropper-2.4.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9308c21e0b98b82e52ad79f966f16e1d/transformed/jetified-android-image-cropper-2.4.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9308c21e0b98b82e52ad79f966f16e1d/transformed/jetified-android-image-cropper-2.4.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f9595e13083d5daadbe3322155f0a5cc/transformed/jetified-android-image-cropper-2.4.7/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f9595e13083d5daadbe3322155f0a5cc/transformed/jetified-android-image-cropper-2.4.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f9595e13083d5daadbe3322155f0a5cc/transformed/jetified-android-image-cropper-2.4.7/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/269cdbfe171da2c880777caaaa87c354/transformed/jetified-android-image-cropper-2.4.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/269cdbfe171da2c880777caaaa87c354/transformed/jetified-android-image-cropper-2.4.7/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/269cdbfe171da2c880777caaaa87c354/transformed/jetified-android-image-cropper-2.4.7/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.theartofdev.edmodo/android-image-cropper/2.4.7/6e86ca3599e2b5b26f82f52b5611ec4ade81a565/android-image-cropper-2.4.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.theartofdev.edmodo/android-image-cropper/2.4.7/50a7eea01adac2df650ae8fa88ca8fbc50b0a187/android-image-cropper-2.4.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
